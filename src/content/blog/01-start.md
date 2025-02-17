@@ -1,5 +1,5 @@
 ---
-title: First post
+title: First post Test
 description: A first Markdown post for the collection
 pubDate: 2025-01-01
 ---
